@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da671f11-a0f5-473c-b3ec-d3b715d6452d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HSE$zeroes.coverage" NAME="zeroes Coverage Results" MODIFIED="1536841310105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Zeroes" />
+    <SUITE FILE_PATH="coverage/HSE$num_of_max.coverage" NAME="num_of_max Coverage Results" MODIFIED="1533727490896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Num of MAX" />
+    <SUITE FILE_PATH="coverage/HSE$wonderful_numbers4.coverage" NAME="wonderful_numbers4 Coverage Results" MODIFIED="1536926051577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Wonderful numbers" />
+    <SUITE FILE_PATH="coverage/HSE$last_number.coverage" NAME="last_number Coverage Results" MODIFIED="1533036812591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Last number" />
+    <SUITE FILE_PATH="coverage/HSE$ege.coverage" NAME="ege Coverage Results" MODIFIED="1537879974917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/EGE" />
+    <SUITE FILE_PATH="coverage/HSE$synonym.coverage" NAME="synonym Coverage Results" MODIFIED="1538998858588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Synonym" />
+    <SUITE FILE_PATH="coverage/HSE$diff_time.coverage" NAME="diff_time Coverage Results" MODIFIED="1533189754599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Time difference" />
+    <SUITE FILE_PATH="coverage/HSE$nearest_num.coverage" NAME="nearest_num Coverage Results" MODIFIED="1537338558601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Nearest number" />
+    <SUITE FILE_PATH="coverage/HSE$time2.coverage" NAME="time2 Coverage Results" MODIFIED="1533189234871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/time2" />
+    <SUITE FILE_PATH="coverage/HSE$bigger_last.coverage" NAME="bigger_last Coverage Results" MODIFIED="1533645907525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Bigger then last" />
+    <SUITE FILE_PATH="coverage/HSE$2_n.coverage" NAME="2^n Coverage Results" MODIFIED="1533036661837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2^N" />
+    <SUITE FILE_PATH="coverage/HSE$second_number.coverage" NAME="second_number Coverage Results" MODIFIED="1533037474222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Second right num" />
+    <SUITE FILE_PATH="coverage/HSE$min_divisor.coverage" NAME="min_divisor Coverage Results" MODIFIED="1536558985781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Min Divisor" />
+    <SUITE FILE_PATH="coverage/HSE$pow_of_num.coverage" NAME="pow_of_num Coverage Results" MODIFIED="1536566680541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Power of number" />
+    <SUITE FILE_PATH="coverage/HSE$whats_bigger.coverage" NAME="whats_bigger Coverage Results" MODIFIED="1533211813372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/What is bigger" />
+    <SUITE FILE_PATH="coverage/HSE$vice_versa.coverage" NAME="vice_versa Coverage Results" MODIFIED="1537332093592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Vice versa" />
+    <SUITE FILE_PATH="coverage/HSE$sum_of_seq.coverage" NAME="sum_of_seq Coverage Results" MODIFIED="1533644747250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Sum of sequence" />
+    <SUITE FILE_PATH="coverage/HSE$students.coverage" NAME="students Coverage Results" MODIFIED="1537864442409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Students" />
+    <SUITE FILE_PATH="coverage/HSE$phone_numbers.coverage" NAME="phone_numbers Coverage Results" MODIFIED="1538740328410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Phone numbers" />
+    <SUITE FILE_PATH="coverage/HSE$is_in_circle.coverage" NAME="is_in_circle Coverage Results" MODIFIED="1536556475178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Is in Circle" />
+    <SUITE FILE_PATH="coverage/HSE$lost_card.coverage" NAME="lost_card Coverage Results" MODIFIED="1536843498814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Lost card" />
+    <SUITE FILE_PATH="coverage/HSE$intersection.coverage" NAME="intersection Coverage Results" MODIFIED="1537353007150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Intersection" />
+    <SUITE FILE_PATH="coverage/HSE$two_in_quater.coverage" NAME="two_in_quater Coverage Results" MODIFIED="1533299523741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Two in quater" />
+    <SUITE FILE_PATH="coverage/HSE$kings_motion.coverage" NAME="kings_motion Coverage Results" MODIFIED="1533291418088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Kings motion" />
+    <SUITE FILE_PATH="coverage/HSE$checkers.coverage" NAME="checkers Coverage Results" MODIFIED="1533300314490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/checkers" />
+    <SUITE FILE_PATH="coverage/HSE$second_max.coverage" NAME="second_max Coverage Results" MODIFIED="1533808577007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Second max" />
+    <SUITE FILE_PATH="coverage/HSE$num_of_even.coverage" NAME="num_of_even Coverage Results" MODIFIED="1537271703010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Number of even" />
+    <SUITE FILE_PATH="coverage/HSE$polyglots.coverage" NAME="polyglots Coverage Results" MODIFIED="1538566850564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Polyglots" />
+    <SUITE FILE_PATH="coverage/HSE$kids_cubes.coverage" NAME="kids_cubes Coverage Results" MODIFIED="1538482398640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Kid's cubes" />
+    <SUITE FILE_PATH="coverage/HSE$fraction.coverage" NAME="fraction Coverage Results" MODIFIED="1533902431080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Fraction" />
+    <SUITE FILE_PATH="coverage/HSE$cities.coverage" NAME="cities Coverage Results" MODIFIED="1538743395292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Cities and Countries" />
+    <SUITE FILE_PATH="coverage/HSE$fast_power.coverage" NAME="fast_power Coverage Results" MODIFIED="1536571137154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Power of number" />
+    <SUITE FILE_PATH="coverage/HSE$was_earlier.coverage" NAME="was_earlier Coverage Results" MODIFIED="1538737144203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Was earlier" />
+    <SUITE FILE_PATH="coverage/HSE$zero_or_not.coverage" NAME="zero_or_not Coverage Results" MODIFIED="1539168239076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 8/Zero or not" />
+    <SUITE FILE_PATH="coverage/HSE$square_sum.coverage" NAME="square_sum Coverage Results" MODIFIED="1536840608958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Square sum" />
+    <SUITE FILE_PATH="coverage/HSE$jogger.coverage" NAME="jogger Coverage Results" MODIFIED="1533640399916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Jogger" />
+    <SUITE FILE_PATH="coverage/HSE$f_string.coverage" NAME="f_string Coverage Results" MODIFIED="1536147672062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/F in string" />
+    <SUITE FILE_PATH="coverage/HSE$word_reorder.coverage" NAME="word_reorder Coverage Results" MODIFIED="1536149827355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Word reorder" />
+    <SUITE FILE_PATH="coverage/HSE$delete_el.coverage" NAME="delete_el Coverage Results" MODIFIED="1537336222712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Delete element" />
+    <SUITE FILE_PATH="coverage/HSE$word_count.coverage" NAME="word_count Coverage Results" MODIFIED="1536150893112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Word count" />
+    <SUITE FILE_PATH="coverage/HSE$triangle_square.coverage" NAME="triangle_square Coverage Results" MODIFIED="1533816385482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Tringle square" />
+    <SUITE FILE_PATH="coverage/HSE$next_even.coverage" NAME="next_even Coverage Results" MODIFIED="1533040564732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Next even" />
+    <SUITE FILE_PATH="coverage/HSE$double_frag.coverage" NAME="double_frag Coverage Results" MODIFIED="1536148789260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Double fragment" />
+    <SUITE FILE_PATH="coverage/HSE$100A.coverage" NAME="100A Coverage Results" MODIFIED="1533037903806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100A" />
+    <SUITE FILE_PATH="coverage/HSE$count_word.coverage" NAME="count_word Coverage Results" MODIFIED="1538998277252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Count of the word" />
+    <SUITE FILE_PATH="coverage/HSE$chess_color.coverage" NAME="chess_color Coverage Results" MODIFIED="1533293081215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Chess color" />
+    <SUITE FILE_PATH="coverage/HSE$max_ab.coverage" NAME="max_ab Coverage Results" MODIFIED="1533210132377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Max A or B" />
+    <SUITE FILE_PATH="coverage/HSE$row3.coverage" NAME="row3 Coverage Results" MODIFIED="1536839841652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Rows" />
+    <SUITE FILE_PATH="coverage/HSE$num_of_words.coverage" NAME="num_of_words Coverage Results" MODIFIED="1539166551262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 8/Number of words" />
+    <SUITE FILE_PATH="coverage/HSE$cost.coverage" NAME="cost Coverage Results" MODIFIED="1533903034442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Cost" />
+    <SUITE FILE_PATH="coverage/HSE$sum_of_num.coverage" NAME="sum_of_num Coverage Results" MODIFIED="1536669055432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Sum of numbers" />
+    <SUITE FILE_PATH="coverage/HSE$reverse_number.coverage" NAME="reverse_number Coverage Results" MODIFIED="1533731304003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Reverse number" />
+    <SUITE FILE_PATH="coverage/HSE$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1536323168856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Triangle" />
+    <SUITE FILE_PATH="coverage/HSE$sum_of_squares.coverage" NAME="sum_of_squares Coverage Results" MODIFIED="1533643579155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Sum of squares" />
+    <SUITE FILE_PATH="coverage/HSE$is_in_area.coverage" NAME="is_in_area Coverage Results" MODIFIED="1536557862516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Is in Area" />
+    <SUITE FILE_PATH="coverage/HSE$most_often.coverage" NAME="most_often Coverage Results" MODIFIED="1539144065496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Most often word" />
+    <SUITE FILE_PATH="coverage/HSE$apples2.coverage" NAME="apples2 Coverage Results" MODIFIED="1533024719957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Apples2" />
+    <SUITE FILE_PATH="coverage/HSE$sum_of_fact.coverage" NAME="sum_of_fact Coverage Results" MODIFIED="1536843457027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Sum of factorials" />
+    <SUITE FILE_PATH="coverage/HSE$olimp_res.coverage" NAME="olimp_res Coverage Results" MODIFIED="1537869161467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Olimpics results" />
+    <SUITE FILE_PATH="coverage/HSE$vice_versa2.coverage" NAME="vice_versa2 Coverage Results" MODIFIED="1537332395485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Vice versa" />
+    <SUITE FILE_PATH="coverage/HSE$set_intersection.coverage" NAME="set_intersection Coverage Results" MODIFIED="1538138762976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Num of Eq" />
+    <SUITE FILE_PATH="coverage/HSE$first_number.coverage" NAME="first_number Coverage Results" MODIFIED="1533036994799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First in 2 digits" />
+    <SUITE FILE_PATH="coverage/HSE$two_neg_pos.coverage" NAME="two_neg_pos Coverage Results" MODIFIED="1537274027092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/2 Neg or 2 Pos" />
+    <SUITE FILE_PATH="coverage/HSE$fibonachi_num.coverage" NAME="fibonachi_num Coverage Results" MODIFIED="1533730107868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Fibonachi number" />
+    <SUITE FILE_PATH="coverage/HSE$notebook_house.coverage" NAME="notebook_house Coverage Results" MODIFIED="1533559783633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Notebook house" />
+    <SUITE FILE_PATH="coverage/HSE$same_numbers.coverage" NAME="same_numbers Coverage Results" MODIFIED="1533556487267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Same numbers" />
+    <SUITE FILE_PATH="coverage/HSE$solution.coverage" NAME="solution Coverage Results" MODIFIED="1533009271880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hello, %username!" />
+    <SUITE FILE_PATH="coverage/HSE$president_election.coverage" NAME="president_election Coverage Results" MODIFIED="1539089937960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/President election" />
+    <SUITE FILE_PATH="coverage/HSE$boxes.coverage" NAME="boxes Coverage Results" MODIFIED="1533557831065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Boxes" />
+    <SUITE FILE_PATH="coverage/HSE$squares2.coverage" NAME="squares2 Coverage Results" MODIFIED="1533804947963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Squares2" />
+    <SUITE FILE_PATH="coverage/HSE$time1.coverage" NAME="time1 Coverage Results" MODIFIED="1533038461265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/time1" />
+    <SUITE FILE_PATH="coverage/HSE$house.coverage" NAME="house Coverage Results" MODIFIED="1533292514859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/house" />
+    <SUITE FILE_PATH="coverage/HSE$stairs.coverage" NAME="stairs Coverage Results" MODIFIED="1536841727987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Stairs" />
+    <SUITE FILE_PATH="coverage/HSE$cows.coverage" NAME="cows Coverage Results" MODIFIED="1533299142549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Cows" />
+    <SUITE FILE_PATH="coverage/HSE$wonderful_numbers2.coverage" NAME="wonderful_numbers2 Coverage Results" MODIFIED="1536843132058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Wonderful numbers" />
+    <SUITE FILE_PATH="coverage/HSE$num_count.coverage" NAME="num_count Coverage Results" MODIFIED="1533643885038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Number count" />
+    <SUITE FILE_PATH="coverage/HSE$max_of_equal.coverage" NAME="max_of_equal Coverage Results" MODIFIED="1533733125368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Max number of equal" />
+    <SUITE FILE_PATH="coverage/HSE$even_count.coverage" NAME="even_count Coverage Results" MODIFIED="1533645063094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Even count" />
+    <SUITE FILE_PATH="coverage/HSE$fibonachi.coverage" NAME="fibonachi Coverage Results" MODIFIED="1536668171676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Fibonachi" />
+    <SUITE FILE_PATH="coverage/HSE$frequency.coverage" NAME="frequency Coverage Results" MODIFIED="1539085869501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Frequency analysis" />
+    <SUITE FILE_PATH="coverage/HSE$strips.coverage" NAME="strips Coverage Results" MODIFIED="1536065409115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Strips" />
+    <SUITE FILE_PATH="coverage/HSE$wonderful_numbers1.coverage" NAME="wonderful_numbers1 Coverage Results" MODIFIED="1536842555332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Wonderful numbers" />
+    <SUITE FILE_PATH="coverage/HSE$bigger_neighbors.coverage" NAME="bigger_neighbors Coverage Results" MODIFIED="1537274458259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Bigger then neighbors" />
+    <SUITE FILE_PATH="coverage/HSE$separator.coverage" NAME="separator Coverage Results" MODIFIED="1533730887045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Separator" />
+    <SUITE FILE_PATH="coverage/HSE$num_of_eq.coverage" NAME="num_of_eq Coverage Results" MODIFIED="1538138167753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Num of Eq" />
+    <SUITE FILE_PATH="coverage/HSE$100_in_square.coverage" NAME="100_in_square Coverage Results" MODIFIED="1533187793756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 times in square" />
+    <SUITE FILE_PATH="coverage/HSE$shoe_shop.coverage" NAME="shoe_shop Coverage Results" MODIFIED="1537357049068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Shoe shop" />
+    <SUITE FILE_PATH="coverage/HSE$gorner.coverage" NAME="gorner Coverage Results" MODIFIED="1534164514329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Gorner" />
+    <SUITE FILE_PATH="coverage/HSE$delete__.coverage" NAME="delete_@ Coverage Results" MODIFIED="1536151395653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Delete @" />
+    <SUITE FILE_PATH="coverage/HSE$divider.coverage" NAME="divider Coverage Results" MODIFIED="1533622533088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Divider" />
+    <SUITE FILE_PATH="coverage/HSE$bad_sort.coverage" NAME="bad_sort Coverage Results" MODIFIED="1533555892293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Bad sort" />
+    <SUITE FILE_PATH="coverage/HSE$odd_even.coverage" NAME="odd_even Coverage Results" MODIFIED="1533554828989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Odd even" />
+    <SUITE FILE_PATH="coverage/HSE$num_of_diff.coverage" NAME="num_of_diff Coverage Results" MODIFIED="1539164097868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 8/Number of diff" />
+    <SUITE FILE_PATH="coverage/HSE$insert_el.coverage" NAME="insert_el Coverage Results" MODIFIED="1537336523761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Insert element" />
+    <SUITE FILE_PATH="coverage/HSE$count_max_in_cl.coverage" NAME="count_max_in_cl Coverage Results" MODIFIED="1537870706664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Max within class" />
+    <SUITE FILE_PATH="coverage/HSE$whitout_rec.coverage" NAME="whitout_rec Coverage Results" MODIFIED="1536566819935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Power of number" />
+    <SUITE FILE_PATH="coverage/HSE$even_indexes.coverage" NAME="even_indexes Coverage Results" MODIFIED="1537270461808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Even indexes" />
+    <SUITE FILE_PATH="coverage/HSE$cd2.coverage" NAME="cd2 Coverage Results" MODIFIED="1537787506652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Civil defense" />
+    <SUITE FILE_PATH="coverage/HSE$rus_round.coverage" NAME="rus_round Coverage Results" MODIFIED="1533903503947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Russian round" />
+    <SUITE FILE_PATH="coverage/HSE$std_deviation.coverage" NAME="std_deviation Coverage Results" MODIFIED="1534417667174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Standard deviation" />
+    <SUITE FILE_PATH="coverage/HSE$max_number.coverage" NAME="max_number Coverage Results" MODIFIED="1533643419661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Max number" />
+    <SUITE FILE_PATH="coverage/HSE$quadratic2.coverage" NAME="quadratic2 Coverage Results" MODIFIED="1534424169168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Quadratic equation" />
+    <SUITE FILE_PATH="coverage/HSE$merge.coverage" NAME="merge Coverage Results" MODIFIED="1537349560542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Merge" />
+    <SUITE FILE_PATH="coverage/HSE$xor.coverage" NAME="xor Coverage Results" MODIFIED="1539170713294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 8/XOR" />
+    <SUITE FILE_PATH="coverage/HSE$if_castle.coverage" NAME="if_castle Coverage Results" MODIFIED="1533556847028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/IF castle" />
+    <SUITE FILE_PATH="coverage/HSE$change_places.coverage" NAME="change_places Coverage Results" MODIFIED="1537344225721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Change places" />
+    <SUITE FILE_PATH="coverage/HSE$rec_sum.coverage" NAME="rec_sum Coverage Results" MODIFIED="1536570489833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Recursive sum" />
+    <SUITE FILE_PATH="coverage/HSE$next_prev.coverage" NAME="next_prev Coverage Results" MODIFIED="1533039776790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Next and Previous" />
+    <SUITE FILE_PATH="coverage/HSE$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1533732514801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/palindrome number" />
+    <SUITE FILE_PATH="coverage/HSE$right_shift.coverage" NAME="right_shift Coverage Results" MODIFIED="1537344512901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Right shift" />
+    <SUITE FILE_PATH="coverage/HSE$reduce_fraction.coverage" NAME="reduce_fraction Coverage Results" MODIFIED="1536667215514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Reduce fraction" />
+    <SUITE FILE_PATH="coverage/HSE$election.coverage" NAME="election Coverage Results" MODIFIED="1539001526366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/US Elections" />
+    <SUITE FILE_PATH="coverage/HSE$pinguins.coverage" NAME="pinguins Coverage Results" MODIFIED="1533035597372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pinguins" />
+    <SUITE FILE_PATH="coverage/HSE$complex_perc.coverage" NAME="complex_perc Coverage Results" MODIFIED="1534162551420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Complex percentages" />
+    <SUITE FILE_PATH="coverage/HSE$first_class.coverage" NAME="first_class Coverage Results" MODIFIED="1539254810434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 9/First class" />
+    <SUITE FILE_PATH="coverage/HSE$row1.coverage" NAME="row1 Coverage Results" MODIFIED="1536838769975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Rows" />
+    <SUITE FILE_PATH="coverage/HSE$sign_x.coverage" NAME="sign_x Coverage Results" MODIFIED="1533299077103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/sign(x)" />
+    <SUITE FILE_PATH="coverage/HSE$chocolate.coverage" NAME="chocolate Coverage Results" MODIFIED="1533298316384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Chocolate" />
+    <SUITE FILE_PATH="coverage/HSE$is_in_square.coverage" NAME="is_in_square Coverage Results" MODIFIED="1536325052886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Is in Square" />
+    <SUITE FILE_PATH="coverage/HSE$prime_number.coverage" NAME="prime_number Coverage Results" MODIFIED="1536561797951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Prime number" />
+    <SUITE FILE_PATH="coverage/HSE$2inNacc.coverage" NAME="2inNacc Coverage Results" MODIFIED="1533640508103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/2^n accuratly" />
+    <SUITE FILE_PATH="coverage/HSE$icecream.coverage" NAME="icecream Coverage Results" MODIFIED="1533623795509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Icecream" />
+    <SUITE FILE_PATH="coverage/HSE$max_of_three.coverage" NAME="max_of_three Coverage Results" MODIFIED="1533213311933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Max of Three" />
+    <SUITE FILE_PATH="coverage/HSE$replace_in_frag.coverage" NAME="replace_in_frag Coverage Results" MODIFIED="1536152162275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Replace in fragment" />
+    <SUITE FILE_PATH="coverage/HSE$average_value.coverage" NAME="average_value Coverage Results" MODIFIED="1533644784851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Average value" />
+    <SUITE FILE_PATH="coverage/HSE$row_sum.coverage" NAME="row_sum Coverage Results" MODIFIED="1533818532171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Row sum" />
+    <SUITE FILE_PATH="coverage/HSE$evklide.coverage" NAME="evklide Coverage Results" MODIFIED="1536659227658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Evklide" />
+    <SUITE FILE_PATH="coverage/HSE$quadratic1.coverage" NAME="quadratic1 Coverage Results" MODIFIED="1534423173893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Quadratic equation" />
+    <SUITE FILE_PATH="coverage/HSE$distance.coverage" NAME="distance Coverage Results" MODIFIED="1536320900715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Distance" />
+    <SUITE FILE_PATH="coverage/HSE$every_third.coverage" NAME="every_third Coverage Results" MODIFIED="1536237740587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Every third" />
+    <SUITE FILE_PATH="coverage/HSE$keyboard.coverage" NAME="keyboard Coverage Results" MODIFIED="1537867849762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Keyboard" />
+    <SUITE FILE_PATH="coverage/HSE$row2.coverage" NAME="row2 Coverage Results" MODIFIED="1536839186660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Rows" />
+    <SUITE FILE_PATH="coverage/HSE$ranks.coverage" NAME="ranks Coverage Results" MODIFIED="1537340148405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Ranks" />
+    <SUITE FILE_PATH="coverage/HSE$last_max.coverage" NAME="last_max Coverage Results" MODIFIED="1537272191503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Last max" />
+    <SUITE FILE_PATH="coverage/HSE$flags.coverage" NAME="flags Coverage Results" MODIFIED="1536840910510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Flags" />
+    <SUITE FILE_PATH="coverage/HSE$log_2.coverage" NAME="log_2 Coverage Results" MODIFIED="1533640485525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Log 2" />
+    <SUITE FILE_PATH="coverage/HSE$max_in_class.coverage" NAME="max_in_class Coverage Results" MODIFIED="1537868513526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Max within class" />
+    <SUITE FILE_PATH="coverage/HSE$sort.coverage" NAME="sort Coverage Results" MODIFIED="1537355750255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Sort" />
+    <SUITE FILE_PATH="coverage/HSE$frag_del.coverage" NAME="frag_del Coverage Results" MODIFIED="1536148233777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Fragment deletion" />
+    <SUITE FILE_PATH="coverage/HSE$fifth_power.coverage" NAME="fifth_power Coverage Results" MODIFIED="1539170262939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 8/Fifth power" />
+    <SUITE FILE_PATH="coverage/HSE$monotony.coverage" NAME="monotony Coverage Results" MODIFIED="1533804461636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Monotony" />
+    <SUITE FILE_PATH="coverage/HSE$bigger_then_last.coverage" NAME="bigger_then_last Coverage Results" MODIFIED="1537272623231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Bigger then last" />
+    <SUITE FILE_PATH="coverage/HSE$autodrive.coverage" NAME="autodrive Coverage Results" MODIFIED="1533190371435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Autodrive" />
+    <SUITE FILE_PATH="coverage/HSE$symbol.coverage" NAME="symbol Coverage Results" MODIFIED="1536236700935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Symbol" />
+    <SUITE FILE_PATH="coverage/HSE$is_in_square2.coverage" NAME="is_in_square2 Coverage Results" MODIFIED="1536554804779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Is in Square" />
+    <SUITE FILE_PATH="coverage/HSE$0_1.coverage" NAME="0_1 Coverage Results" MODIFIED="1533040456285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0 or 1" />
+    <SUITE FILE_PATH="coverage/HSE$is_ascending.coverage" NAME="is_ascending Coverage Results" MODIFIED="1537272999224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/IsAscending" />
+    <SUITE FILE_PATH="coverage/HSE$second_find.coverage" NAME="second_find Coverage Results" MODIFIED="1536150033398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Second find" />
+    <SUITE FILE_PATH="coverage/HSE$guess_num.coverage" NAME="guess_num Coverage Results" MODIFIED="1538550216074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 7/Guess number" />
+    <SUITE FILE_PATH="coverage/HSE$min_positive.coverage" NAME="min_positive Coverage Results" MODIFIED="1537330958282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Min positive" />
+    <SUITE FILE_PATH="coverage/HSE$avr_class.coverage" NAME="avr_class Coverage Results" MODIFIED="1537793062481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Average within class" />
+    <SUITE FILE_PATH="coverage/HSE$replace_one.coverage" NAME="replace_one Coverage Results" MODIFIED="1536151221226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Replace One" />
+    <SUITE FILE_PATH="coverage/HSE$first_max.coverage" NAME="first_max Coverage Results" MODIFIED="1537275252285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/First max" />
+    <SUITE FILE_PATH="coverage/HSE$c_n_k.coverage" NAME="c_n_k Coverage Results" MODIFIED="1536668716452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/C(n, k)" />
+    <SUITE FILE_PATH="coverage/HSE$ege2.coverage" NAME="ege2 Coverage Results" MODIFIED="1537879869765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/EGE" />
+    <SUITE FILE_PATH="coverage/HSE$min_odd.coverage" NAME="min_odd Coverage Results" MODIFIED="1539167619001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 8/Min odd" />
+    <SUITE FILE_PATH="coverage/HSE$sum_three.coverage" NAME="sum_three Coverage Results" MODIFIED="1533037701582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sum of 3 digits" />
+    <SUITE FILE_PATH="coverage/HSE$min_n_max.coverage" NAME="min_n_max Coverage Results" MODIFIED="1537346921004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Min 'n' Max" />
+    <SUITE FILE_PATH="coverage/HSE$archiving.coverage" NAME="archiving Coverage Results" MODIFIED="1537358579626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Archiving" />
+    <SUITE FILE_PATH="coverage/HSE$triangle_type.coverage" NAME="triangle_type Coverage Results" MODIFIED="1533554505364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Triangle type" />
+    <SUITE FILE_PATH="coverage/HSE$even_elements.coverage" NAME="even_elements Coverage Results" MODIFIED="1537270818684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 5/Even elements" />
+    <SUITE FILE_PATH="coverage/HSE$mkad.coverage" NAME="mkad Coverage Results" MODIFIED="1533188023994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MKAD" />
+    <SUITE FILE_PATH="coverage/HSE$percentages.coverage" NAME="percentages Coverage Results" MODIFIED="1534162183135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Percentages" />
+    <SUITE FILE_PATH="coverage/HSE$snail.coverage" NAME="snail Coverage Results" MODIFIED="1533200528768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Snail" />
+    <SUITE FILE_PATH="coverage/HSE$min_of_four.coverage" NAME="min_of_four Coverage Results" MODIFIED="1536320852686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Min of Four" />
+    <SUITE FILE_PATH="coverage/HSE$hello_username.coverage" NAME="hello_username Coverage Results" MODIFIED="1533009362384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hello, %username!" />
+    <SUITE FILE_PATH="coverage/HSE$inverse_sequence.coverage" NAME="inverse_sequence Coverage Results" MODIFIED="1536670230524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4/Inverse sequence" />
+    <SUITE FILE_PATH="coverage/HSE$HSE.coverage" NAME="HSE Coverage Results" MODIFIED="1539253652986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/HSE$linear1.coverage" NAME="linear1 Coverage Results" MODIFIED="1536238631348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3/Linear equations" />
+    <SUITE FILE_PATH="coverage/HSE$apples1.coverage" NAME="apples1 Coverage Results" MODIFIED="1533024452539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Apples1" />
+    <SUITE FILE_PATH="coverage/HSE$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1533213181505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Leap year" />
+    <SUITE FILE_PATH="coverage/HSE$squares.coverage" NAME="squares Coverage Results" MODIFIED="1533622073957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2/Squares" />
+    <SUITE FILE_PATH="coverage/HSE$CountSort.coverage" NAME="CountSort Coverage Results" MODIFIED="1537866493481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/CountSort" />
+    <SUITE FILE_PATH="coverage/HSE$cd.coverage" NAME="cd Coverage Results" MODIFIED="1537787457119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 6/Civil defense" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HSE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="first_class.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 9/First class/first_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="737">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Week 5/Change places/change_places.py" />
+        <option value="$PROJECT_DIR$/Week 5/Right shift/right_shift.py" />
+        <option value="$PROJECT_DIR$/Week 5/Min 'n' Max/min_n_max.py" />
+        <option value="$PROJECT_DIR$/Week 6/Merge/merge.py" />
+        <option value="$PROJECT_DIR$/Week 6/Intersection/intersection.py" />
+        <option value="$PROJECT_DIR$/Week 6/Sort/sort.py" />
+        <option value="$PROJECT_DIR$/Week 6/Shoe shop/shoe_shop.py" />
+        <option value="$PROJECT_DIR$/Week 6/Archiving/archiving.py" />
+        <option value="$PROJECT_DIR$/Week 6/Civil defense/cd.py" />
+        <option value="$PROJECT_DIR$/Week 6/Civil defense/cd2.py" />
+        <option value="$PROJECT_DIR$/Week 6/Average within class/avr_class.py" />
+        <option value="$PROJECT_DIR$/Week 6/Average within class/input.txt" />
+        <option value="$PROJECT_DIR$/Week 6/Students/input.txt" />
+        <option value="$PROJECT_DIR$/Week 6/Students/students.py" />
+        <option value="$PROJECT_DIR$/Week 6/CountSort/CountSort.py" />
+        <option value="$PROJECT_DIR$/Week 6/Keyboard/keyboard.py" />
+        <option value="$PROJECT_DIR$/Week 6/Max within class/max_in_class.py" />
+        <option value="$PROJECT_DIR$/Week 6/Olimpics results/olimp_res.py" />
+        <option value="$PROJECT_DIR$/Week 6/Max within class/input.txt" />
+        <option value="$PROJECT_DIR$/Week 6/Max within class/count_max_in_cl.py" />
+        <option value="$PROJECT_DIR$/Week 6/EGE/input.txt" />
+        <option value="$PROJECT_DIR$/Week 6/EGE/ege.py" />
+        <option value="$PROJECT_DIR$/Week 6/EGE/ege2.py" />
+        <option value="$PROJECT_DIR$/Week 7/Num of diff/num_of_diff.py" />
+        <option value="$PROJECT_DIR$/Week 7/Num of Eq/num_of_eq.py" />
+        <option value="$PROJECT_DIR$/Week 7/Num of Eq/set_intersection.py" />
+        <option value="$PROJECT_DIR$/Week 7/Was earlier/was_earlier.py" />
+        <option value="$PROJECT_DIR$/Week 7/Kid's cubes/input.txt" />
+        <option value="$PROJECT_DIR$/Week 7/Kid's cubes/kids_cubes.py" />
+        <option value="$PROJECT_DIR$/Week 7/Number of words/num_of_words.py" />
+        <option value="$PROJECT_DIR$/Week 7/Guess number/guess_num.py" />
+        <option value="$PROJECT_DIR$/Week 7/Polyglots/polyglots.py" />
+        <option value="$PROJECT_DIR$/Week 7/Phone numbers/phone_numbers.py" />
+        <option value="$PROJECT_DIR$/Week 7/Cities and Countries/cities.py" />
+        <option value="$PROJECT_DIR$/Week 7/Count of the word/input.txt" />
+        <option value="$PROJECT_DIR$/Week 7/Count of the word/count_word.py" />
+        <option value="$PROJECT_DIR$/Week 7/Synonym/synonym.py" />
+        <option value="$PROJECT_DIR$/Week 7/US Elections/election.py" />
+        <option value="$PROJECT_DIR$/Week 7/US Elections/input.txt" />
+        <option value="$PROJECT_DIR$/Week 7/Frequency analysis/frequency.py" />
+        <option value="$PROJECT_DIR$/Week 7/President election/input.txt" />
+        <option value="$PROJECT_DIR$/Week 7/President election/president_election.py" />
+        <option value="$PROJECT_DIR$/Week 7/Most often word/most_often.py" />
+        <option value="$PROJECT_DIR$/Week 8/Number of diff/num_of_diff.py" />
+        <option value="$PROJECT_DIR$/Week 8/Number of words/num_of_words.py" />
+        <option value="$PROJECT_DIR$/Week 8/Min odd/min_odd.py" />
+        <option value="$PROJECT_DIR$/Week 8/Zero or not/zero_or_not.py" />
+        <option value="$PROJECT_DIR$/Week 8/Fifth power/fifth_power.py" />
+        <option value="$PROJECT_DIR$/Week 8/XOR/xor.py" />
+        <option value="$PROJECT_DIR$/Week 9/introduction_to_ipython.ipynb" />
+        <option value="$PROJECT_DIR$/Week 9/First class/first_class.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="84" />
+    <option name="y" value="-14" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HSE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HSE" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 9" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\d.v.kulemin.UTMN\PycharmProjects\HSE\Week 9" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\d.v.kulemin.UTMN\PycharmProjects\HSE\Week 1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.first_class">
+    <configuration name="HSE" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="HSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration name="fifth_power" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 8/Fifth power" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 8/Fifth power/fifth_power.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="first_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 9/First class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 9/First class/first_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="min_odd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 8/Min odd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 8/Min odd/min_odd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="xor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 8/XOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 8/XOR/xor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="zero_or_not" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 8/Zero or not" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 8/Zero or not/zero_or_not.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.min_odd" />
+      <item itemvalue="Python.zero_or_not" />
+      <item itemvalue="Python.fifth_power" />
+      <item itemvalue="Python.xor" />
+      <item itemvalue="Python.first_class" />
+      <item itemvalue="Jupyter Notebook.HSE" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.first_class" />
+        <item itemvalue="Python.xor" />
+        <item itemvalue="Python.fifth_power" />
+        <item itemvalue="Python.zero_or_not" />
+        <item itemvalue="Python.min_odd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da671f11-a0f5-473c-b3ec-d3b715d6452d" name="Default" comment="" />
+      <created>1533008896832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533008896832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.31060606" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.31060606" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32900432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891776" visible="true" weight="0.20842217" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="1" sideWeight="0.50108224" side_tool="true" weight="0.20415778" />
+      <window_info id="Favorites" order="2" sideWeight="0.50108224" side_tool="true" weight="0.20415778" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2046875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31104356" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week 6/Civil defense/cd2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Civil defense/cd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Shoe shop/shoe_shop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Intersection/intersection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Average within class/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Students/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Keyboard/keyboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Students/students.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/CountSort/CountSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Max within class/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Olimpics results/olimp_res.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/EGE/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/EGE/ege2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/EGE/ege.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/EGE/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Archiving/archiving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Average within class/avr_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Kid's cubes/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Kid's cubes/kids_cubes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Kid's cubes/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Num of Eq/set_intersection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Num of Eq/num_of_eq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Num of diff/num_of_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Count of the word/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Phone numbers/phone_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Polyglots/polyglots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/US Elections/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Cities and Countries/cities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Count of the word/count_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Guess number/guess_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Was earlier/was_earlier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Sort/sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Max within class/max_in_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 6/Max within class/count_max_in_cl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/US Elections/election.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Number of words/num_of_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Synonym/synonym.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/President election/president_election.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/President election/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/President election/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Frequency analysis/frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 7/Most often word/most_often.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 8/Number of diff/num_of_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 8/Number of words/num_of_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 8/Min odd/min_odd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 8/Zero or not/zero_or_not.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 8/Fifth power/fifth_power.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 8/XOR/xor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1712876781/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 9/introduction_to_ipython.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 9/First class/first_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
